@@ -1,2 +1,4 @@
 # SportSteer
-This repo contains source code of java based software built in intellij ide and netbeans and microsoft sql server is  used as database and the software is based on sports team management.
+SportSteer is a desktop Application buiult uisng <strong>JavaFX</strong> in Netbeans.
+<br> Microsfot SQL Server (Local) is used to store and retreive Data.
+<br> SQL is used for accessing AND writing data to database.
